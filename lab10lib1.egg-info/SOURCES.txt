@@ -1,0 +1,8 @@
+setup.py
+functions/__init__.py
+functions/part1.py
+functions/part2.py
+lab10lib1.egg-info/PKG-INFO
+lab10lib1.egg-info/SOURCES.txt
+lab10lib1.egg-info/dependency_links.txt
+lab10lib1.egg-info/top_level.txt
